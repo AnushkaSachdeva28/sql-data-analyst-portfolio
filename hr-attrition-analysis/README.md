@@ -14,4 +14,5 @@ Which employees are most likely to leave the company, and what factors are assoc
 - **Tool:** MySQL
 - **SQL Concepts:** SELECT, WHERE, GROUP BY, aggregate functions, CASE WHEN, Window Functions and JOINS.
 ---
+## Key findings
 
